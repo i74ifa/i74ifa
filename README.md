@@ -1,10 +1,5 @@
 <h1 >Hi, I'm Hothifa Jaber</h1>
-<h3 >⚡ Senior Software Developer ⚡</h3>
-
-**i74ifa/i74ifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p align="center"> <img src="https://avatars.githubusercontent.com/u/69402911?s=460&u=41de640e7bfd153f5efa02d3e50277d956ce0950&v=4" alt="gravatar" /> </p>
-
-Here are some ideas to get you started:
+<h3 >⚡  web Developer ⚡</h3>
 
 - 🌱 I’m currently learning ** PHP, Laravel **
 - 💬 Ask me about **PHP, Laravel, MYSQL**
