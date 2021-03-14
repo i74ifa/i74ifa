@@ -1,7 +1,7 @@
 <h1 >Hi, I'm Hothifa Jaber</h1>
 <h3 >⚡  web Developer ⚡</h3>
 
-- 🌱 I’m currently learning ** PHP, Laravel **
+- 🌱 I’m currently learning **PHP, Laravel**
 - 💬 Ask me about **PHP, Laravel, MYSQL**
 - 📫 How to reach me:
 - - **Twitter:** <a href="https://twitter.com/74ifa">@74ifa</a>
