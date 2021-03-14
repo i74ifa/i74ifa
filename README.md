@@ -1,4 +1,4 @@
-<h1 >Hi, I'm Hothifa Jaber</h1>
+<h1 >Hi, I'm Hothaifa Jaber</h1>
 <h3 >⚡  web Developer ⚡</h3>
 
 - 🌱 I’m currently learning **PHP, Laravel**
