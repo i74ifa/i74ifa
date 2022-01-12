@@ -1,8 +1,7 @@
 <h1 >Hi, I'm Hothaifa Jaber</h1>
-<h3 >⚡  web Developer ⚡</h3>
+<h3 >⚡  Full stack developer ⚡</h3>
 
-- 🌱 I’m currently learning **PHP, Laravel**
-- 💬 Ask me about **PHP, Laravel, MYSQL**
+- 💬 Ask me about **PHP, Laravel, MYSQL, HTML, CSS, JS, VueJS, Tailwindcss**
 - 📫 How to reach me:
 - - **Twitter:** <a href="https://twitter.com/i74ifa">@i74ifa</a>
 - - **Instagram:** <a href="https://instagram.com/74ifa">@74ifa</a>
